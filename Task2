@@ -7,8 +7,11 @@ The Julia code in the task 2 contains the following things that are implemented:
 3->f(a::Int64) is used to multiply 2 to the value a and the integer a is stored in 64 bits representation of integer.
 
 4->in function(a::String) the following takes place:
+
 * The string a is converted into vector s with integer representation of 8 bits.
+
 * x is a vector which stores the return value of the function randsubseq():
+
 Syntax:	
 
 randsubseq(A,p)->Vector
