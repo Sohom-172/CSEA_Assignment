@@ -10,7 +10,7 @@ The phrase $ is repeated 56 times in the whole audio
 
 The phrase & is repeated 48 times in the whole audio
 
-If we represent the “up” in the phrase $ and “down” in the phrase & then we get the following representation:->
+If we represent the “up” in the phrase $ by 1 and “down” in the phrase & by 0 then we get the following representation:->
 
 00110100011101010110010000110001011011110101111101101001001101010101111101101110001100010110001100110011
 
