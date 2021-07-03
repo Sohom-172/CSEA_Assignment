@@ -1,5 +1,13 @@
 TASK 1:
 
-The "flag" in the text given in the text given is "branch(es)" word.
+At first I read the .md file in the develop branch 
 
-I think it is because the word "branch(es) is the most used word in the whole text given
+Then i searched the other branches
+
+On searching the branches I reached a branch called "final"
+
+There was a gpg signed commit which is a sha 256 hash, that is the flag
+
+The flag is:
+
+aa73a15fe374d82e5245cb16f13718918f986f90
