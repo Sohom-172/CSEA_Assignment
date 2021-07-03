@@ -7,27 +7,24 @@ The Julia code in the task 2 contains the following things that are implemented:
 3->f(a::Int64) is used to multiply 2 to the value a and the integer a is stored in 64 bits representation of integer.
 
 4->in function(a::String) the following takes place:
-
 * The string a is converted into vector s with integer representation of 8 bits.
 
 * x is a vector which stores the return value of the function randsubseq():
 
-Syntax:	
-
-randsubseq(A,p)->Vector
-
-Return a vector consisting of a random subsequence of the given array A,where each element of A is included with independent probability p.
-1:length(s) -> the subvector is taken from index 1 to the last index of the vector
-In this case the independent probabilty is 0.5.
-
 * The setdiff() works as follows:
-Syntax:
-
-setdiff(S1,S2)
-
 Construct the set of elements in S1 and eliminating S2 elements.Maintain the order of the arrays.Note that both arguments must be collections and both will be itterated over.
 * o is an empty vector that the has length of the vector s.
 * o[x] stores the return value of the s[x] converted into type Float64.
 * o[y] stores the return value of the s[y] converted into type Int64.
 
-Thus the main function of the code is to take the string thar is stored in the FLAG variable in the secrets.jl and that is passed into the function f and that is converted into vector and then the random number generator is used and then the setdiff function that creates a new vector without the random numbers generated. Then the functions(namely points 2 and 3) are implemented onto the vector elements and then they are printed using  println().
+-------------------------------------------------------------------------------------------------------------
+
+The “flag” that is to be found is a string.The string characters are converted into its ASCII equivalents.
+
+The ASCII values present are:
+
+102,108,97,103,123,109,117,49,116,105,112,51,95,100,53,54,99,104,115,95,119,101,106,48,125
+
+This means that these are the ASCII value of the characters that are present in the string and not among the random numbers.
+
+Therefore the “flag” is a string that consists of the following ASCII numbers.
