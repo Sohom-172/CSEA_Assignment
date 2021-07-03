@@ -6,7 +6,7 @@ The ASCII values can be found by the two functions that aew given.
 
 The ASCII values present are:
 
-102,108,97,103,123,109,117,49,116,105,112,108,51,95,100,105,53,112,54,116,99,104,49,115,95,52,119,101,53,48,109,101,125102,108,97,103,123,109,117,49,116,105,112,108,51,95,100,105,53,112,54,116,99,104,49,115,95,52,119,101,53,48,109,101,125
+102,108,97,103,123,109,117,49,116,105,112,108,51,95,100,105,53,112,54,116,99,104,49,115,95,52,119,101,53,48,109,101,125
 
 This means that these are the ASCII value of the characters that are present in the string and not among the random numbers.
 
