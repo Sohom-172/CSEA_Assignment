@@ -1,8 +1,13 @@
-# CSEC_Assignment
-This is the github repository where my own solutions of the tasks of the assignment are there.The writeups that are present in the repository are:
+# TASK 1:
 
-2-> Task 2 writeup that contains my detailed analysis of the whole problem and my explanation to the whole code written in Julia.
-It is in a branch of the main in the name of" Task 2".
+This is the write up for the task 1 that is given.......
 
-3-> Task 3 writeup that contains my detailed analysis of the "funny audio" and my approach on deciphering the "flag' in the "funny audio" file.
-It is in a branch of the main in the name of" Task 3".
+In the branch "final" I find something.md....
+ 
+There it is given a "The first part of the flag is the type of hash used by git as default, can you find it!"
+
+So the first part of the flag is the type of flag that git uses as default...
+
+which is "SHA-1"
+
+Thus the flag is "SHA-1"
