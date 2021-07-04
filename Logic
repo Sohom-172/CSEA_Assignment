@@ -1,0 +1,20 @@
+The logic behind the code is quite simple.
+
+It contains two functions that perform two distinct operations.
+
+_______________________________________________________________________________________________________
+f(a::Float64) performs the operation that it takes the number multiply 4 with it and add 1.......
+
+The output contains quite some numbers that are derived from the functionality....
+
+Primarily the numbers that are odd in the list of outputs can be classified into this category.
+_______________________________________________________________________________________________________
+
+f(a::Int64) performs the operation that it takes the number and multiply 2 with it
+
+The output contains quite some numbers that are derived from the functionality....
+
+Primarily the numbers that are even in the list of outputs can be classified into this category.
+_______________________________________________________________________________________________________
+
+using both of the functions we can easily derive the ASCII values of the characters.
