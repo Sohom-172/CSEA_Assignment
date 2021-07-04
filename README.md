@@ -1,6 +1,7 @@
-# CSEC_Assignment
-This is the github repository where my own solutions of the tasks of the assignment are there.The writeups that are present in the repository are:
+# TASK 2:
 
-1-> Task 2 writeup that contains my detailed analysis of the whole problem and my explanation to the whole code written in Julia.
+Practically to be honest this task did see scary at first(mainly cuz I didn't know the language but later on seeing the functions and exploring the functions of the code it became too simple to be honest.
 
-2-> Task 3 writeup that contains my detailed analysis of the "funny audio" and my approach on deciphering the "flag' in the "funny audio" file 
+I wrote the logic and then also used that logic to reach my ultimate goal that is to recover the flag in the code.
+
+Ofc that is hidden in the output.
